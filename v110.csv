@@ -1,0 +1,20 @@
+Data,Status,Linha,Sentido Trajeto,Veiculo Realizado,Tabela,Passageiros,Horario Inicio Programado,Horario Inicio Realizado,Horario Fim Programado,Horario Fim Realizado,Fim da ultima viagem,Duração
+01/03/2020,Viagem Planejada e Realizada,110 - Clovis Alvim Destino Hospital Carlos Chagas,R. Chácara Fernando Jardim - HCC,1408,H1,12,06:25:00,06:28:26,06:55:00,06:52:54,06:28:26,00:24:28
+01/03/2020,Viagem Planejada e Realizada,110 - Destino Clóvis Alvim,R. José Evangelista Lage,1408,H1,7,07:05:00,07:07:07,07:30:00,07:29:36,06:52:54,00:22:29
+01/03/2020,Viagem Planejada e Realizada,110 - Clovis Alvim Destino Hospital Carlos Chagas,R. Chácara Fernando Jardim - HCC,1408,H1,4,07:30:00,07:34:18,07:55:00,08:00:08,07:29:36,00:25:50
+01/03/2020,Viagem Planejada e Realizada,110 - Destino Clóvis Alvim,R. José Evangelista Lage,1408,H1,1,08:00:00,08:06:44,08:25:00,08:27:56,08:00:08,00:21:12
+01/03/2020,Viagem Planejada e Realizada,110 - Clovis Alvim Destino Hospital Carlos Chagas,R. Chácara Fernando Jardim - HCC,1408,H1,4,08:30:00,08:37:05,08:55:00,09:01:50,08:27:56,00:24:45
+01/03/2020,Viagem Planejada e Realizada,110 - Destino Clóvis Alvim,R. José Evangelista Lage,1408,H1,8,10:00:00,10:06:48,10:25:00,10:33:55,09:01:50,00:27:07
+01/03/2020,Viagem Planejada e Realizada,110 - Clovis Alvim Destino Hospital Carlos Chagas,R. Chácara Fernando Jardim - HCC,1408,H1,3,10:40:00,10:44:19,11:05:00,11:07:11,10:33:55,00:22:52
+01/03/2020,Viagem Planejada e Realizada,110 - Destino Clóvis Alvim,R. José Evangelista Lage,1408,H1,6,12:00:00,12:07:39,12:25:00,12:33:18,11:07:11,00:25:39
+01/03/2020,Viagem Planejada e Realizada,110 - Clovis Alvim Destino Hospital Carlos Chagas,R. Chácara Fernando Jardim - HCC,1408,H1,10,12:40:00,12:42:25,13:05:00,13:07:12,12:33:18,00:24:47
+01/03/2020,Viagem Planejada e Realizada,110 - Destino Clóvis Alvim,R. José Evangelista Lage,1408,H1,2,14:00:00,14:01:19,14:25:00,14:24:14,13:07:12,00:22:55
+01/03/2020,Viagem Planejada e Realizada,110 - Clovis Alvim Destino Hospital Carlos Chagas,R. Chácara Fernando Jardim - HCC,1408,H1,2,14:40:00,14:41:44,15:05:00,15:03:16,14:24:14,00:21:32
+01/03/2020,Viagem Planejada e Realizada,110 - Destino Clóvis Alvim,R. José Evangelista Lage,1408,H1,2,16:00:00,16:01:26,16:25:00,16:21:46,15:03:16,00:20:20
+01/03/2020,Viagem Planejada e Realizada,110 - Clovis Alvim Destino Hospital Carlos Chagas,R. Chácara Fernando Jardim - HCC,1408,H1,7,16:40:00,16:42:06,17:05:00,17:05:51,16:21:46,00:23:45
+01/03/2020,Viagem Planejada e Realizada,110 - Destino Clóvis Alvim,R. José Evangelista Lage,1408,H1,4,18:00:00,18:00:53,18:25:00,18:24:02,17:05:51,00:23:09
+01/03/2020,Viagem Planejada e Realizada,110 - Clovis Alvim Destino Hospital Carlos Chagas,R. Chácara Fernando Jardim - HCC,1408,H1,14,18:30:00,18:31:47,18:55:00,18:56:57,18:24:02,00:25:10
+01/03/2020,Viagem Planejada e Realizada,110 - Destino Clóvis Alvim,R. José Evangelista Lage,1408,H1,7,19:05:00,19:06:46,19:30:00,19:31:07,18:56:57,00:24:21
+01/03/2020,Viagem Planejada e Realizada,110 - Clovis Alvim Destino Hospital Carlos Chagas,R. Chácara Fernando Jardim - HCC,1408,H1,1,19:30:00,19:32:18,19:55:00,19:57:12,19:31:07,00:24:54
+01/03/2020,Viagem Planejada e Realizada,110 - Destino Clóvis Alvim,R. José Evangelista Lage,1408,H1,,21:00:00,21:00:51,21:25:00,21:25:08,19:57:12,00:24:17
+01/03/2020,Viagem Planejada e Realizada,110.2 - Clóvis Alvim Destino Centro,Av. Carlos Drumond De Andrade,1408,H1,,21:30:00,21:30:55,21:50:00,21:45:45,21:25:08,00:14:50
